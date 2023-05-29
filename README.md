@@ -7,4 +7,4 @@ I have been in the creative industry for 10+ years and love all things code 💻
 Node.js/Express.js<br>
 MySQL<br>
 MongoDB<br>
-Python and a lil bit of C#
+Python, C#
